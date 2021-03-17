@@ -1,0 +1,11 @@
+setup.py
+plugin_crossconnect/__init__.py
+plugin_crossconnect/admin.py
+plugin_crossconnect/models.py
+plugin_crossconnect/navigation.py
+plugin_crossconnect/urls.py
+plugin_crossconnect.egg-info/PKG-INFO
+plugin_crossconnect.egg-info/SOURCES.txt
+plugin_crossconnect.egg-info/dependency_links.txt
+plugin_crossconnect.egg-info/not-zip-safe
+plugin_crossconnect.egg-info/top_level.txt
